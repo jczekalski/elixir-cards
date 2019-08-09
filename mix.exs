@@ -26,4 +26,11 @@ defmodule Cards.MixProject do
       # {:dep_from_git, git: "https://github.com/elixir-lang/my_dep.git", tag: "0.1.0"}
     ]
   end
+
+  def docs do
+    [
+      source_url: "https://github.com/jczekalski/elixir-cards",
+      extras: ["README.md"]
+    ]
+  end
 end
