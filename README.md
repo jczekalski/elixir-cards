@@ -6,6 +6,7 @@ The idea behind the project was to write a simple module in order to learn the b
 - functional programming vs. OOP
 - pattern matching
 - pipe operator
+- data structures: Map, Tuple, List, Keyword List
 - ex_doc + doctest
 - adding test cases
 
