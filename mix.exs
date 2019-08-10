@@ -27,7 +27,7 @@ defmodule Cards.MixProject do
     ]
   end
 
-  def docs do
+  defp docs do
     [
       source_url: "https://github.com/jczekalski/elixir-cards",
       extras: ["README.md"]
